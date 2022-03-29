@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server Native Client 11.0
+UID=sc
+DATABASE=sci
+WSID=PENTAS
+APP=Microsoft® Windows® Operating System
+SERVER=120.28.144.84
+Description=mssql
