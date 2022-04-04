@@ -1,0 +1,6 @@
+*.pbd
+*.exe
+*.dll
+bin
+log
+offline
